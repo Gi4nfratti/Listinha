@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642806274042",
+    "project_id": "listinha-ea6ee",
+    "storage_bucket": "listinha-ea6ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642806274042:android:121bab58daeaac0857b643",
+        "android_client_info": {
+          "package_name": "com.bestapplications.listinha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGiq472Rx-g6C_E6JKR_s1_sNEL0on-FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+List<String> imageList = [
+  "food.jpg",
+  "travel.jpg",
+  "market.jpg",
+  "gym.jpg",
+  "food2.jpg",
+  "food3.jpg",
+  "food4.jpg",
+  "travel2.jpg",
+  "travel3.jpeg",
+  "market1.jpg",
+  "market2.jpg",
+  "gym1.jpg",
+  "gym2.jpg",
+];
